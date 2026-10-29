@@ -1,7 +1,9 @@
 var panel = new Panel
 var panelScreen = panel.screen
 panel.location = "bottom";
-panel.height = Math.round(gridUnit * 2.5);
+// Plasma 6 面板厚度只接受偶数像素，且 ChromeOS 面板背景按 56px 设计，
+// 这里固定为 48px，避免图标被裁切或面板过矮
+panel.height = 48;
 
 var kickoff = panel.addWidget("org.kde.plasma.kickoff")
 kickoff.currentConfigGroup = ["Shortcuts"]

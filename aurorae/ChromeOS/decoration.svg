@@ -52,8 +52,6 @@
   <rect x="241" y="105" width="30" height="60" fill="#244fae" style="paint-order:stroke fill markers"/>
   <rect x="241" y="105" width="1" height="60" fill="#fff" opacity=".15" style="paint-order:stroke fill markers"/>
  </g>
- <use transform="matrix(-1,0,0,1,284,0)" width="100%" height="100%" xlink:href="#g917"/>
- <use transform="matrix(-1,0,0,1,284,0)" width="100%" height="100%" xlink:href="#g949"/>
  <rect id="decoration-center" x="92" y="57" width="100" height="60" fill="#244fae" style="paint-order:stroke fill markers"/>
  <g id="decoration-bottomleft" transform="matrix(1,0,0,-1,-163,217)">
   <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
@@ -65,7 +63,6 @@
   <rect x="235" y="105" width="16" height="60" fill="url(#linearGradient1030)" style="paint-order:stroke fill markers"/>
   <rect x="251" y="105" width="4" height="60" fill="#f5f5f5" style="paint-order:stroke fill markers"/>
  </g>
- <use transform="matrix(-1,0,0,1,284,0)" width="100%" height="100%" xlink:href="#g969"/>
  <g id="decoration-topright" transform="matrix(-1 0 0 1 447 -59)">
   <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
   <path transform="translate(163,59)" d="m66 21v18h26v-18z" fill="url(#radialGradient2494)" style="paint-order:stroke fill markers"/>

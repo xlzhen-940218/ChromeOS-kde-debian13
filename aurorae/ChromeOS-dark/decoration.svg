@@ -348,22 +348,6 @@
        id="rect1014"
        style="opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.83303034;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#g917"
-     id="use953"
-     transform="matrix(-1,0,0,1,284,0)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#g949"
-     id="use955"
-     transform="matrix(-1,0,0,1,284,0)"
-     width="100%"
-     height="100%" />
   <rect
      style="opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="decoration-center"
@@ -418,14 +402,6 @@
        x="251"
        y="105" />
   </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#g969"
-     id="use1040"
-     transform="matrix(-1,0,0,1,284,0)"
-     width="100%"
-     height="100%" />
   <use
      x="0"
      y="0"
